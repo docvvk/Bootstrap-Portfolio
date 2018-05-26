@@ -13,7 +13,6 @@ body {
 .nav-link {
     text-decoration: none;
     color: #fafafa;
-    /* margin-right: 20px; */
 }
 .nav-link:hover {
     color: rgb(228, 201, 48);
@@ -31,7 +30,6 @@ body {
     left: 14.7px;
 }
 .panel-heading {
-    /* font-family:'Georgia', Times, Times New Roman, serif; */
     font-size: 2vw;
     padding: 1.8vw;
 }
