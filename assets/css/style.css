@@ -84,7 +84,8 @@ footer {
 .text {
     padding-top: 15px;
     color: #fafafa;
-    font: 1.5vw 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 10px;
 }
 
 /* index.html css */
@@ -227,6 +228,9 @@ footer {
     }
     .works {
         padding: 0 5vw;
+    }
+    .text {
+        font-size: 8px;
     }
 
 }    
