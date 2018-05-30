@@ -230,7 +230,13 @@ footer {
         padding: 0 5vw;
     }
     .text {
+        position: relative;
         font-size: 8px;
+        bottom: 10px;
+    }
+    footer {
+        position: fixed;
+        height: 30px;
     }
 
 }    
